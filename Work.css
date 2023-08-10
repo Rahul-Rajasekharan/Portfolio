@@ -1,0 +1,117 @@
+.background-colour{
+    background-image: url('Images/landingpage-2work.jpeg');
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 815px;
+    /* position:fixed; */
+}
+.icon-container {
+    width: 48px; 
+    height: 48px;
+    border-radius: 50%;
+    overflow: hidden; 
+    background-color: #c06363; 
+    
+}
+.rounded-icon {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;   
+
+}
+.navbar-nav .nav-link {
+    margin-right: 30px; 
+}
+.navbar-margins{
+    margin-top: 13px;
+    margin-left: 25px;
+}
+.navbar-nav .nav-link.card {
+    border: 2px solid rgb(29 123 104 / 94%); 
+    border-radius: 4px;
+    background-color:rgb(4, 23, 47);
+    color:rgb(40 218 183 / 94%);
+    font-size: small;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 6px 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.navbar-nav .nav-link .green-number {
+    color: rgb(11 141 115 / 94%);
+    margin-right: 4px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 11px;
+}
+.navbar-nav .nav-link {
+    color:  rgb(178 173 178);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: small;
+}
+.navbar-toggler {
+    background-color: #7e8596;
+    color:  rgb(1, 4, 22);
+}
+.navbar-toggler .navbar-toggler-icon {
+    color: rgb(29 123 104 / 94%); 
+}
+.project-heading{
+    margin-top: 1rem;
+    margin-left: 3rem;
+    margin-bottom: 1.1rem;
+    color: #a2a3b6;
+    text-align: center;
+    font-size: 1.9rem;
+}
+.project-box1{
+    border: 2px solid rgb(16 17 17 / 94%);
+    border-radius: 3px;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 0.7rem;
+    display: inline-block; 
+    width: 43rem;
+    height: 20.5rem;
+    text-align: center;
+    position: relative;
+    Font-family: fangsong;
+    margin-left: 5px;
+}
+.project-box2{
+    border: 2px solid rgb(16 17 17 / 94%);
+    border-radius: 3px;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 0.7rem;
+    display: inline-block; 
+    width: 43rem;
+    height: 15.3rem;
+    text-align: center;
+    Font-family: fangsong;
+    position: relative;
+    margin-left: 5px;
+}
+.project-content{
+    color: #7f878e;
+    font-size: 12.5px;
+    text-align: justify;
+    word-spacing: 3px;
+}
+
+.icon-style {
+    font-size: 13px;
+    word-spacing: 4px;
+    position: absolute;
+    bottom: 10px; 
+    left: 50%;
+    transform: translateX(-50%);
+}
+.icon{
+    color:rgb(154 173 140 / 94%);
+    margin-right: 0.5rem;
+}

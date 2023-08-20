@@ -3,11 +3,11 @@ body{
     background-size: cover;
     background-position: center;
 }
-.background-colour{
+/* .background-colour{
     /* width: 100%;
     height: 815px; */
-    /* position:fixed; */
-}
+    /* position:fixed; 
+} */
 .icon-container {
     width: 48px; 
     height: 48px;
